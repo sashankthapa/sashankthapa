@@ -3,7 +3,7 @@
     <img width="736px" height="414px" src="IMG_9839.jpeg">
 </p> -->
 ## Who am I?
-- Delevoper | Engineer | Researcher
+- Developer | Engineer | Researcher
 - Research Intern @ DRDO — computer vision, data modeling, network analysis
 - Published 3+ research papers on algorithms, computer vision, drones, blockchain, and more
 
